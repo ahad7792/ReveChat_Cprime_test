@@ -28,6 +28,7 @@
 		22E6822B2F5EB36B00F5D87E /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22E6822A2F5EB36B00F5D87E /* ReveChatSDK_CPrime */; };
 		22F208D12F08F57E0067B065 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22F208D02F08F57E0067B065 /* ReveChatSDK_CPrime */; };
 		22F208D42F0BC56B0067B065 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22F208D32F0BC56B0067B065 /* ReveChatSDK_CPrime */; };
+		DF0D99A82F61368E00FE6FF8 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = DF0D99A72F61368E00FE6FF8 /* ReveChatSDK_CPrime */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 				2256FB562F234DA100904DC0 /* ReveChatSDK_CPrime in Frameworks */,
 				22E2CDCB2F58559500E0D6E6 /* ReveChatSDK_CPrime in Frameworks */,
 				222E10852EC20C3E009F2747 /* ReveChatSDK_CPrime in Frameworks */,
+				DF0D99A82F61368E00FE6FF8 /* ReveChatSDK_CPrime in Frameworks */,
 				223CBB602EF4080F004214AD /* ReveChatSDK_CPrime in Frameworks */,
 				221BA2F12EC23A5900CE7235 /* ReveChatSDK_CPrime in Frameworks */,
 				223CBB652EF40D26004214AD /* ReveChatSDK_CPrime in Frameworks */,
@@ -144,6 +146,7 @@
 				2256FB552F234DA100904DC0 /* ReveChatSDK_CPrime */,
 				22E2CDCA2F58559500E0D6E6 /* ReveChatSDK_CPrime */,
 				22E6822A2F5EB36B00F5D87E /* ReveChatSDK_CPrime */,
+				DF0D99A72F61368E00FE6FF8 /* ReveChatSDK_CPrime */,
 			);
 			productName = Reven;
 			productReference = 222E0C682EC1FE69009F2747 /* Reven.app */;
@@ -174,7 +177,7 @@
 			mainGroup = 222E0C5F2EC1FE69009F2747;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				22E682292F5EB36B00F5D87E /* XCLocalSwiftPackageReference "../../Downloads/ReveChatSDK_CPrime" */,
+				DF0D99A62F61368E00FE6FF8 /* XCLocalSwiftPackageReference "../Cprime spm local/ReveChatSDK_CPrime" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 222E0C692EC1FE69009F2747 /* Products */;
@@ -418,9 +421,9 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		22E682292F5EB36B00F5D87E /* XCLocalSwiftPackageReference "../../Downloads/ReveChatSDK_CPrime" */ = {
+		DF0D99A62F61368E00FE6FF8 /* XCLocalSwiftPackageReference "../Cprime spm local/ReveChatSDK_CPrime" */ = {
 			isa = XCLocalSwiftPackageReference;
-			relativePath = ../../Downloads/ReveChatSDK_CPrime;
+			relativePath = "../Cprime spm local/ReveChatSDK_CPrime";
 		};
 /* End XCLocalSwiftPackageReference section */
 
@@ -506,6 +509,10 @@
 			productName = ReveChatSDK_CPrime;
 		};
 		22F208D32F0BC56B0067B065 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		DF0D99A72F61368E00FE6FF8 /* ReveChatSDK_CPrime */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = ReveChatSDK_CPrime;
 		};
