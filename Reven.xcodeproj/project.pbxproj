@@ -1,0 +1,521 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		221BA2DE2EC239D000CE7235 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 221BA2DD2EC239D000CE7235 /* ReveChatSDK_CPrime */; };
+		221BA2F12EC23A5900CE7235 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 221BA2F02EC23A5900CE7235 /* ReveChatSDK_CPrime */; };
+		222E0C822EC1FE7B009F2747 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 222E0C812EC1FE7B009F2747 /* ReveChatSDK_CPrime */; };
+		222E0C852EC200F0009F2747 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 222E0C842EC200F0009F2747 /* ReveChatSDK_CPrime */; };
+		222E10852EC20C3E009F2747 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 222E10842EC20C3E009F2747 /* ReveChatSDK_CPrime */; };
+		223CBB2F2EF13C20004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB2E2EF13C20004214AD /* ReveChatSDK_CPrime */; };
+		223CBB322EF140E8004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB312EF140E8004214AD /* ReveChatSDK_CPrime */; };
+		223CBB352EF14267004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB342EF14267004214AD /* ReveChatSDK_CPrime */; };
+		223CBB382EF14A91004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB372EF14A91004214AD /* ReveChatSDK_CPrime */; };
+		223CBB602EF4080F004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB5F2EF4080F004214AD /* ReveChatSDK_CPrime */; };
+		223CBB652EF40D26004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB642EF40D26004214AD /* ReveChatSDK_CPrime */; };
+		224EF8332EFAD3D8009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF8322EFAD3D8009D650B /* ReveChatSDK_CPrime */; };
+		224EF8362EFBF042009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF8352EFBF042009D650B /* ReveChatSDK_CPrime */; };
+		224EF84B2EFBFF2E009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF84A2EFBFF2E009D650B /* ReveChatSDK_CPrime */; };
+		224EF84E2EFC073D009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF84D2EFC073D009D650B /* ReveChatSDK_CPrime */; };
+		224EF8512EFE47EB009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF8502EFE47EB009D650B /* ReveChatSDK_CPrime */; };
+		2256FB562F234DA100904DC0 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 2256FB552F234DA100904DC0 /* ReveChatSDK_CPrime */; };
+		22E2CDCB2F58559500E0D6E6 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22E2CDCA2F58559500E0D6E6 /* ReveChatSDK_CPrime */; };
+		22E6822B2F5EB36B00F5D87E /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22E6822A2F5EB36B00F5D87E /* ReveChatSDK_CPrime */; };
+		22F208D12F08F57E0067B065 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22F208D02F08F57E0067B065 /* ReveChatSDK_CPrime */; };
+		22F208D42F0BC56B0067B065 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22F208D32F0BC56B0067B065 /* ReveChatSDK_CPrime */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		222E0C682EC1FE69009F2747 /* Reven.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reven.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		222E0C7A2EC1FE6B009F2747 /* Exceptions for "Reven" folder in "Reven" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 222E0C672EC1FE69009F2747 /* Reven */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		222E0C6A2EC1FE69009F2747 /* Reven */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				222E0C7A2EC1FE6B009F2747 /* Exceptions for "Reven" folder in "Reven" target */,
+			);
+			path = Reven;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		222E0C652EC1FE69009F2747 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2256FB562F234DA100904DC0 /* ReveChatSDK_CPrime in Frameworks */,
+				22E2CDCB2F58559500E0D6E6 /* ReveChatSDK_CPrime in Frameworks */,
+				222E10852EC20C3E009F2747 /* ReveChatSDK_CPrime in Frameworks */,
+				223CBB602EF4080F004214AD /* ReveChatSDK_CPrime in Frameworks */,
+				221BA2F12EC23A5900CE7235 /* ReveChatSDK_CPrime in Frameworks */,
+				223CBB652EF40D26004214AD /* ReveChatSDK_CPrime in Frameworks */,
+				223CBB322EF140E8004214AD /* ReveChatSDK_CPrime in Frameworks */,
+				224EF8512EFE47EB009D650B /* ReveChatSDK_CPrime in Frameworks */,
+				221BA2DE2EC239D000CE7235 /* ReveChatSDK_CPrime in Frameworks */,
+				22E6822B2F5EB36B00F5D87E /* ReveChatSDK_CPrime in Frameworks */,
+				224EF84E2EFC073D009D650B /* ReveChatSDK_CPrime in Frameworks */,
+				223CBB2F2EF13C20004214AD /* ReveChatSDK_CPrime in Frameworks */,
+				223CBB352EF14267004214AD /* ReveChatSDK_CPrime in Frameworks */,
+				223CBB382EF14A91004214AD /* ReveChatSDK_CPrime in Frameworks */,
+				224EF84B2EFBFF2E009D650B /* ReveChatSDK_CPrime in Frameworks */,
+				224EF8362EFBF042009D650B /* ReveChatSDK_CPrime in Frameworks */,
+				22F208D12F08F57E0067B065 /* ReveChatSDK_CPrime in Frameworks */,
+				224EF8332EFAD3D8009D650B /* ReveChatSDK_CPrime in Frameworks */,
+				22F208D42F0BC56B0067B065 /* ReveChatSDK_CPrime in Frameworks */,
+				222E0C822EC1FE7B009F2747 /* ReveChatSDK_CPrime in Frameworks */,
+				222E0C852EC200F0009F2747 /* ReveChatSDK_CPrime in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		222E0C5F2EC1FE69009F2747 = {
+			isa = PBXGroup;
+			children = (
+				222E0C6A2EC1FE69009F2747 /* Reven */,
+				222E0C692EC1FE69009F2747 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		222E0C692EC1FE69009F2747 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				222E0C682EC1FE69009F2747 /* Reven.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		222E0C672EC1FE69009F2747 /* Reven */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 222E0C7B2EC1FE6B009F2747 /* Build configuration list for PBXNativeTarget "Reven" */;
+			buildPhases = (
+				222E0C642EC1FE69009F2747 /* Sources */,
+				222E0C652EC1FE69009F2747 /* Frameworks */,
+				222E0C662EC1FE69009F2747 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				222E0C6A2EC1FE69009F2747 /* Reven */,
+			);
+			name = Reven;
+			packageProductDependencies = (
+				222E0C812EC1FE7B009F2747 /* ReveChatSDK_CPrime */,
+				222E0C842EC200F0009F2747 /* ReveChatSDK_CPrime */,
+				222E10842EC20C3E009F2747 /* ReveChatSDK_CPrime */,
+				221BA2DD2EC239D000CE7235 /* ReveChatSDK_CPrime */,
+				221BA2F02EC23A5900CE7235 /* ReveChatSDK_CPrime */,
+				223CBB2E2EF13C20004214AD /* ReveChatSDK_CPrime */,
+				223CBB312EF140E8004214AD /* ReveChatSDK_CPrime */,
+				223CBB342EF14267004214AD /* ReveChatSDK_CPrime */,
+				223CBB372EF14A91004214AD /* ReveChatSDK_CPrime */,
+				223CBB5F2EF4080F004214AD /* ReveChatSDK_CPrime */,
+				223CBB642EF40D26004214AD /* ReveChatSDK_CPrime */,
+				224EF8322EFAD3D8009D650B /* ReveChatSDK_CPrime */,
+				224EF8352EFBF042009D650B /* ReveChatSDK_CPrime */,
+				224EF84A2EFBFF2E009D650B /* ReveChatSDK_CPrime */,
+				224EF84D2EFC073D009D650B /* ReveChatSDK_CPrime */,
+				224EF8502EFE47EB009D650B /* ReveChatSDK_CPrime */,
+				22F208D02F08F57E0067B065 /* ReveChatSDK_CPrime */,
+				22F208D32F0BC56B0067B065 /* ReveChatSDK_CPrime */,
+				2256FB552F234DA100904DC0 /* ReveChatSDK_CPrime */,
+				22E2CDCA2F58559500E0D6E6 /* ReveChatSDK_CPrime */,
+				22E6822A2F5EB36B00F5D87E /* ReveChatSDK_CPrime */,
+			);
+			productName = Reven;
+			productReference = 222E0C682EC1FE69009F2747 /* Reven.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		222E0C602EC1FE69009F2747 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					222E0C672EC1FE69009F2747 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+				};
+			};
+			buildConfigurationList = 222E0C632EC1FE69009F2747 /* Build configuration list for PBXProject "Reven" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 222E0C5F2EC1FE69009F2747;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				22E682292F5EB36B00F5D87E /* XCLocalSwiftPackageReference "../../Downloads/ReveChatSDK_CPrime" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 222E0C692EC1FE69009F2747 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				222E0C672EC1FE69009F2747 /* Reven */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		222E0C662EC1FE69009F2747 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		222E0C642EC1FE69009F2747 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		222E0C7C2EC1FE6B009F2747 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = N66HCPTXFG;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Reven/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "VOIP call";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = VOIP;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.revesdk.revechat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Adhoc revesdk test";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		222E0C7D2EC1FE6B009F2747 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = N66HCPTXFG;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Reven/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "VOIP call";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = VOIP;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.revesdk.revechat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Adhoc revesdk test";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		222E0C7E2EC1FE6B009F2747 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = N66HCPTXFG;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		222E0C7F2EC1FE6B009F2747 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = N66HCPTXFG;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		222E0C632EC1FE69009F2747 /* Build configuration list for PBXProject "Reven" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				222E0C7E2EC1FE6B009F2747 /* Debug */,
+				222E0C7F2EC1FE6B009F2747 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		222E0C7B2EC1FE6B009F2747 /* Build configuration list for PBXNativeTarget "Reven" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				222E0C7C2EC1FE6B009F2747 /* Debug */,
+				222E0C7D2EC1FE6B009F2747 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		22E682292F5EB36B00F5D87E /* XCLocalSwiftPackageReference "../../Downloads/ReveChatSDK_CPrime" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../../Downloads/ReveChatSDK_CPrime;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		221BA2DD2EC239D000CE7235 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		221BA2F02EC23A5900CE7235 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		222E0C812EC1FE7B009F2747 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		222E0C842EC200F0009F2747 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		222E10842EC20C3E009F2747 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		223CBB2E2EF13C20004214AD /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		223CBB312EF140E8004214AD /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		223CBB342EF14267004214AD /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		223CBB372EF14A91004214AD /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		223CBB5F2EF4080F004214AD /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		223CBB642EF40D26004214AD /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		224EF8322EFAD3D8009D650B /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		224EF8352EFBF042009D650B /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		224EF84A2EFBFF2E009D650B /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		224EF84D2EFC073D009D650B /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		224EF8502EFE47EB009D650B /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		2256FB552F234DA100904DC0 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		22E2CDCA2F58559500E0D6E6 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		22E6822A2F5EB36B00F5D87E /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		22F208D02F08F57E0067B065 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+		22F208D32F0BC56B0067B065 /* ReveChatSDK_CPrime */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReveChatSDK_CPrime;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 222E0C602EC1FE69009F2747 /* Project object */;
+}
