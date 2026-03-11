@@ -6,31 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		221BA2DE2EC239D000CE7235 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 221BA2DD2EC239D000CE7235 /* ReveChatSDK_CPrime */; };
-		221BA2F12EC23A5900CE7235 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 221BA2F02EC23A5900CE7235 /* ReveChatSDK_CPrime */; };
-		222E0C822EC1FE7B009F2747 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 222E0C812EC1FE7B009F2747 /* ReveChatSDK_CPrime */; };
-		222E0C852EC200F0009F2747 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 222E0C842EC200F0009F2747 /* ReveChatSDK_CPrime */; };
-		222E10852EC20C3E009F2747 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 222E10842EC20C3E009F2747 /* ReveChatSDK_CPrime */; };
-		223CBB2F2EF13C20004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB2E2EF13C20004214AD /* ReveChatSDK_CPrime */; };
-		223CBB322EF140E8004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB312EF140E8004214AD /* ReveChatSDK_CPrime */; };
-		223CBB352EF14267004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB342EF14267004214AD /* ReveChatSDK_CPrime */; };
-		223CBB382EF14A91004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB372EF14A91004214AD /* ReveChatSDK_CPrime */; };
-		223CBB602EF4080F004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB5F2EF4080F004214AD /* ReveChatSDK_CPrime */; };
-		223CBB652EF40D26004214AD /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 223CBB642EF40D26004214AD /* ReveChatSDK_CPrime */; };
-		224EF8332EFAD3D8009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF8322EFAD3D8009D650B /* ReveChatSDK_CPrime */; };
-		224EF8362EFBF042009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF8352EFBF042009D650B /* ReveChatSDK_CPrime */; };
-		224EF84B2EFBFF2E009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF84A2EFBFF2E009D650B /* ReveChatSDK_CPrime */; };
-		224EF84E2EFC073D009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF84D2EFC073D009D650B /* ReveChatSDK_CPrime */; };
-		224EF8512EFE47EB009D650B /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 224EF8502EFE47EB009D650B /* ReveChatSDK_CPrime */; };
-		2256FB562F234DA100904DC0 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 2256FB552F234DA100904DC0 /* ReveChatSDK_CPrime */; };
-		22E2CDCB2F58559500E0D6E6 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22E2CDCA2F58559500E0D6E6 /* ReveChatSDK_CPrime */; };
-		22E6822B2F5EB36B00F5D87E /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22E6822A2F5EB36B00F5D87E /* ReveChatSDK_CPrime */; };
-		22F208D12F08F57E0067B065 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22F208D02F08F57E0067B065 /* ReveChatSDK_CPrime */; };
-		22F208D42F0BC56B0067B065 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = 22F208D32F0BC56B0067B065 /* ReveChatSDK_CPrime */; };
-		DF0D99A82F61368E00FE6FF8 /* ReveChatSDK_CPrime in Frameworks */ = {isa = PBXBuildFile; productRef = DF0D99A72F61368E00FE6FF8 /* ReveChatSDK_CPrime */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		222E0C682EC1FE69009F2747 /* Reven.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reven.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -61,28 +36,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2256FB562F234DA100904DC0 /* ReveChatSDK_CPrime in Frameworks */,
-				22E2CDCB2F58559500E0D6E6 /* ReveChatSDK_CPrime in Frameworks */,
-				222E10852EC20C3E009F2747 /* ReveChatSDK_CPrime in Frameworks */,
-				DF0D99A82F61368E00FE6FF8 /* ReveChatSDK_CPrime in Frameworks */,
-				223CBB602EF4080F004214AD /* ReveChatSDK_CPrime in Frameworks */,
-				221BA2F12EC23A5900CE7235 /* ReveChatSDK_CPrime in Frameworks */,
-				223CBB652EF40D26004214AD /* ReveChatSDK_CPrime in Frameworks */,
-				223CBB322EF140E8004214AD /* ReveChatSDK_CPrime in Frameworks */,
-				224EF8512EFE47EB009D650B /* ReveChatSDK_CPrime in Frameworks */,
-				221BA2DE2EC239D000CE7235 /* ReveChatSDK_CPrime in Frameworks */,
-				22E6822B2F5EB36B00F5D87E /* ReveChatSDK_CPrime in Frameworks */,
-				224EF84E2EFC073D009D650B /* ReveChatSDK_CPrime in Frameworks */,
-				223CBB2F2EF13C20004214AD /* ReveChatSDK_CPrime in Frameworks */,
-				223CBB352EF14267004214AD /* ReveChatSDK_CPrime in Frameworks */,
-				223CBB382EF14A91004214AD /* ReveChatSDK_CPrime in Frameworks */,
-				224EF84B2EFBFF2E009D650B /* ReveChatSDK_CPrime in Frameworks */,
-				224EF8362EFBF042009D650B /* ReveChatSDK_CPrime in Frameworks */,
-				22F208D12F08F57E0067B065 /* ReveChatSDK_CPrime in Frameworks */,
-				224EF8332EFAD3D8009D650B /* ReveChatSDK_CPrime in Frameworks */,
-				22F208D42F0BC56B0067B065 /* ReveChatSDK_CPrime in Frameworks */,
-				222E0C822EC1FE7B009F2747 /* ReveChatSDK_CPrime in Frameworks */,
-				222E0C852EC200F0009F2747 /* ReveChatSDK_CPrime in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,7 +96,6 @@
 				224EF8502EFE47EB009D650B /* ReveChatSDK_CPrime */,
 				22F208D02F08F57E0067B065 /* ReveChatSDK_CPrime */,
 				22F208D32F0BC56B0067B065 /* ReveChatSDK_CPrime */,
-				2256FB552F234DA100904DC0 /* ReveChatSDK_CPrime */,
 				22E2CDCA2F58559500E0D6E6 /* ReveChatSDK_CPrime */,
 				22E6822A2F5EB36B00F5D87E /* ReveChatSDK_CPrime */,
 				DF0D99A72F61368E00FE6FF8 /* ReveChatSDK_CPrime */,
@@ -177,7 +129,6 @@
 			mainGroup = 222E0C5F2EC1FE69009F2747;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				DF0D99A62F61368E00FE6FF8 /* XCLocalSwiftPackageReference "../Cprime spm local/ReveChatSDK_CPrime" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 222E0C692EC1FE69009F2747 /* Products */;
@@ -420,13 +371,6 @@
 		};
 /* End XCConfigurationList section */
 
-/* Begin XCLocalSwiftPackageReference section */
-		DF0D99A62F61368E00FE6FF8 /* XCLocalSwiftPackageReference "../Cprime spm local/ReveChatSDK_CPrime" */ = {
-			isa = XCLocalSwiftPackageReference;
-			relativePath = "../Cprime spm local/ReveChatSDK_CPrime";
-		};
-/* End XCLocalSwiftPackageReference section */
-
 /* Begin XCSwiftPackageProductDependency section */
 		221BA2DD2EC239D000CE7235 /* ReveChatSDK_CPrime */ = {
 			isa = XCSwiftPackageProductDependency;
@@ -489,10 +433,6 @@
 			productName = ReveChatSDK_CPrime;
 		};
 		224EF8502EFE47EB009D650B /* ReveChatSDK_CPrime */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = ReveChatSDK_CPrime;
-		};
-		2256FB552F234DA100904DC0 /* ReveChatSDK_CPrime */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = ReveChatSDK_CPrime;
 		};
